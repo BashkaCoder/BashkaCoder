@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dbashinskiy@miem.hse.ru**
 
-- 📄 Know about my experiences [https://mytischi.hh.ru/resume/28d1d1daff0d41481a0039ed1f5366324a5351?disableBrowserCache=true&hhtmFrom=resume_list](https://mytischi.hh.ru/resume/28d1d1daff0d41481a0039ed1f5366324a5351?disableBrowserCache=true&hhtmFrom=resume_list)
+- 📄 Know about my experiences [https://mytischi.hh.ru/resume/28d1d1daff0d41481a0039ed1f5366324a5351)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
