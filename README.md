@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danila</h1>
 <h3 align="center">A passionate game developer</h3>
 
-- 🔭 I’m currently working on [Inhumans inc](https://bashkacoder.itch.io/inhuman-inc)
+- 🔭 I’m currently working at [Bear Head Studio](https://bearheadstudio.ru/)
 
 - 🌱 I’m currently learning **Unity Zenject, UniRx**
 
